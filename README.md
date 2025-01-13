@@ -2,7 +2,7 @@ Getting started
 ---
 Clone the repository:
 ```
-git clone --bare <your-dotfiles-repo-url> $HOME/.dotfiles
+git clone --bare https://github.com/quietpigeon/dotfiles/ $HOME/.dotfiles
 ```
 Set up the alias:
 ```
