@@ -17,9 +17,6 @@ return {
     },
   },
 
-  -- catppuccin
-  { "catppuccin/nvim", name = "catppuccin", priority = 1000 },
-
   -- change trouble config
   {
     "folke/trouble.nvim",
