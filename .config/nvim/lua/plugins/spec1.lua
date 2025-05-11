@@ -1,6 +1,4 @@
 return {
-  { import = "lazyvim.plugins" },
-
   { "LazyVim/LazyVim", opts = {
     colorscheme = "catppuccin-mocha",
   } },
