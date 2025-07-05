@@ -1,0 +1,31 @@
+general.import = [
+  "~/.config/alacritty/catppuccin-mocha.toml"
+]
+
+[env]
+TERM = "xterm-256color"
+
+[terminal.shell]
+program = "/bin/zsh"
+
+[font]
+size = 11.0
+
+[window]
+opacity = 0.9
+
+[font.normal]
+family = "Mononoki Nerd Font"
+style = "Regular"
+
+[font.bold]
+family = "Mononoki Nerd Font"
+style = "Bold"
+
+[font.italic]
+family = "Mononoki Nerd Font"
+style = "Italic"
+
+[font.bold_italic]
+family = "Mononoki Nerd Font"
+style = "Bold Italic"
